@@ -1,4 +1,4 @@
-# E-Commerce Store (MERN) — Backend Ready, React Frontend 
+# E-Commerce Store (MERN)  
 
 ![E-Commerce Store](images/image-1.png)
 
