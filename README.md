@@ -1,7 +1,29 @@
-# E-Commerce Store (MERN) — Backend Ready, React Frontend Planned
+# E-Commerce Store (MERN) — Backend Ready, React Frontend 
+
+![E-Commerce Store](images/image-1.png)
 
 An e-commerce store project built with the **MERN** stack.  
-Currently this repository contains the **backend (Node.js + Express + MongoDB)** and API routes; the **frontend will be developed using React**.
+Currently this repository contains the **backend (Node.js + Express + MongoDB)** and API routes; the **frontend is being developed using React**.
+
+### Components & Features
+- 🚀 Project Setup
+- 🗄️ MongoDB & Redis Integration
+- 💳 Stripe Payment Setup
+- 🔐 Robust Authentication System
+- 🔑 JWT with Refresh/Access Tokens
+- 📝 User Signup & Login
+- 🛒 E-Commerce Core
+- 📦 Product & Category Management
+- 🛍️ Shopping Cart Functionality
+- 💰 Checkout with Stripe
+- 🏷️ Coupon Code System
+- 👑 Admin Dashboard
+- 📊 Sales Analytics
+- 🎨 Design with Tailwind
+- 🛒 Cart & Checkout Process
+- 🔒 Security
+- 🛡️ Data Protection
+- 🚀Caching with Redis
 
 ---
 
@@ -18,7 +40,8 @@ Currently this repository contains the **backend (Node.js + Express + MongoDB)**
 - **Redis** (`ioredis`) *(for caching / sessions depending on implementation)*
 
 ### Frontend (Planned)
-- **React** (to be created/added)
+- **React** (Vite)
+- **Tailwind CSS** (styling)
 
 ---
 
